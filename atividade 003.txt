@@ -1,0 +1,48 @@
+1°)
+
+Variáveis: nomeCompleto, idade, altura, estaMatriculado
+
+
+Tipos de dados para cada uma:
+
+nomeCompleto: String
+
+idade: Int
+
+altura: float
+
+estaMatriculado: boolean
+
+
+
+2°)
+
+Variáveis: nomeProduto, quantidadeEstoque, precoUnitario, disponivelParaVenda, 
+
+
+Tipos de dados para cada uma:
+
+nomeProduto: String
+
+quantidadeEstoque: int
+
+precoUnitario: double
+
+disponivelParaVenda: boolean 
+
+
+
+3°)
+
+Variáveis: nomeEvento, numeroParticipantes, precoIngresso, eventoPresencial
+
+
+Tipos de dados para cada uma:
+
+nomeEvento: String
+
+numeroParticipantes: int
+
+precoIngresso: double
+
+eventoPresencial: boolean 
